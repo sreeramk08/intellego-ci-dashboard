@@ -1,0 +1,67 @@
+<STYLE type="text/css">
+  H1 { text-align: center; color: White; font-size: 500% }
+</STYLE>
+
+<H1> Intellego Dashboard </H1>
+<body style="background-color: #3B3738;">
+
+<script type='text/javascript'>
+$(function() {
+  // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
+  Dashing.gridsterLayout('[{"col":1,"row":1},{"col":3,"row":1},{"col":5,"row":1},{"col":1,"row":2},{"col":3,"row":2},{"col":4,"row":2},{"col":5,"row":2},{"col":6,"row":2},{"col":1,"row":3},{"col":2,"row":3},{"col":3,"row":3},{"col":4,"row":3},{"col":5,"row":3},{"col":6,"row":3},{"col":7,"row":3}]')
+  Dashing.widget_base_dimensions = [370, 340]
+  Dashing.numColumns = 7
+});
+</script>
+
+
+<% content_for :title do %>1080p dashboard<% end %>
+<div class="gridster">
+  <ul>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="response_intellego_src_branch" data-view="Alert" style="background-color:#4A96AD;font-size:200%" data-title="Source Code Branch"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="progress_bars" data-view="HotProgressBars" data-title="" data-zebra="0"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="response_rest_api_src_branch" data-view="Alert" style="background-color:#4A96AD;font-size:200%" data-title="Test Suite Branch"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="response_all_tests" data-view="Alert" data-title="All Tests" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_level2_tests" data-view="Alert" data-title="Level 2" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_level3_tests" data-view="Alert" data-title="Level 3" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_io_tests" data-view="Alert" data-title="IO" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_telephony_tests" data-view="Alert" data-title="Telephony" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_level1_tests" data-view="Alert" data-title="Level 1" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_kddi_tests" data-view="Alert" data-title="KDDI" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_regression_tests" data-view="Alert" data-title="Regression" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_rtf_tests" data-view="Alert" data-title="RTF" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_reporting_tests" data-view="Alert" data-title="Reporting" data-addclass-danger="failure"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="response_datawipe_tests" data-view="Alert" data-title="Datawipe" data-addclass-danger="failure"></div>
+    </li>
+
+  </ul>
+</div>

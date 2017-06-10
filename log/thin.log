@@ -1,0 +1,1371 @@
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.4 codename Gob Bluth)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+10.30.1.104 - - [09/Jun/2017 10:27:17] "GET /ops HTTP/1.1" 200 3859 0.0042
+10.30.1.104 - - [09/Jun/2017 10:27:21] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 10:27:21] "GET /views/alert.html HTTP/1.1" 200 59 0.0006
+10.30.1.104 - - [09/Jun/2017 10:28:10] "GET /events HTTP/1.1" 200 - 48.6643
+Waiting for 3 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.4 codename Gob Bluth)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+10.30.1.104 - - [09/Jun/2017 10:28:20] "GET /ops HTTP/1.1" 200 3859 0.0043
+10.30.1.104 - - [09/Jun/2017 10:28:24] "GET /ops HTTP/1.1" 200 3859 0.0037
+10.30.1.104 - - [09/Jun/2017 10:28:26] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 10:28:26] "GET /views/alert.html HTTP/1.1" 200 59 0.0008
+10.30.1.104 - - [09/Jun/2017 10:29:12] "GET /ops HTTP/1.1" 200 3864 0.0192
+10.30.1.104 - - [09/Jun/2017 10:29:12] "GET /events HTTP/1.1" 200 - 46.9955
+10.30.1.104 - - [09/Jun/2017 10:29:13] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 10:29:13] "GET /views/alert.html HTTP/1.1" 200 59 0.0006
+10.30.1.104 - - [09/Jun/2017 10:29:50] "GET /ops HTTP/1.1" 200 3896 0.0045
+10.30.1.104 - - [09/Jun/2017 10:29:50] "GET /events HTTP/1.1" 200 - 37.6468
+10.30.1.104 - - [09/Jun/2017 10:29:51] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 10:29:51] "GET /views/alert.html HTTP/1.1" 200 59 0.0007
+10.30.1.104 - - [09/Jun/2017 10:30:05] "GET /ops HTTP/1.1" 200 3896 0.0065
+10.30.1.104 - - [09/Jun/2017 10:30:05] "GET /events HTTP/1.1" 200 - 13.8288
+10.30.1.104 - - [09/Jun/2017 10:30:05] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0016
+10.30.1.104 - - [09/Jun/2017 10:30:05] "GET /views/alert.html HTTP/1.1" 200 59 0.0009
+10.30.1.104 - - [09/Jun/2017 10:30:17] "GET /ops HTTP/1.1" 200 3896 0.0195
+10.30.1.104 - - [09/Jun/2017 10:30:17] "GET /events HTTP/1.1" 200 - 12.2168
+10.30.1.104 - - [09/Jun/2017 10:30:18] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.104 - - [09/Jun/2017 10:30:18] "GET /views/alert.html HTTP/1.1" 200 59 0.0011
+10.30.1.104 - - [09/Jun/2017 10:30:36] "GET /ops HTTP/1.1" 200 3896 0.0036
+10.30.1.104 - - [09/Jun/2017 10:30:36] "GET /events HTTP/1.1" 200 - 18.2044
+10.30.1.104 - - [09/Jun/2017 10:30:36] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 10:30:36] "GET /views/alert.html HTTP/1.1" 200 59 0.0007
+10.30.1.104 - - [09/Jun/2017 10:33:16] "GET /ops HTTP/1.1" 200 3896 0.0067
+10.30.1.104 - - [09/Jun/2017 10:33:16] "GET /events HTTP/1.1" 200 - 160.4252
+10.30.1.104 - - [09/Jun/2017 10:33:17] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 10:33:17] "GET /views/alert.html HTTP/1.1" 200 59 0.0007
+10.30.1.104 - - [09/Jun/2017 10:34:18] "GET /ops HTTP/1.1" 200 3863 0.0038
+10.30.1.104 - - [09/Jun/2017 10:34:18] "GET /events HTTP/1.1" 200 - 60.9068
+10.30.1.104 - - [09/Jun/2017 10:34:18] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 10:34:18] "GET /views/alert.html HTTP/1.1" 200 59 0.0007
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_all_tests HTTP/1.1" 204 - 0.0009
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_datawipe_tests HTTP/1.1" 204 - 0.0003
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_io_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_kddi_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_level1_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_level2_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_level3_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_regression_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_reporting_tests HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_rtf_tests HTTP/1.1" 204 - 0.0005
+10.0.156.71 - - [09/Jun/2017 10:49:05] "POST /widgets/response_telephony_tests HTTP/1.1" 204 - 0.0005
+10.30.1.104 - - [09/Jun/2017 10:51:18] "GET /ops HTTP/1.1" 200 3863 0.0069
+10.30.1.104 - - [09/Jun/2017 10:51:18] "GET /events HTTP/1.1" 200 - 1020.1570
+10.30.1.104 - - [09/Jun/2017 10:51:19] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0018
+10.30.1.104 - - [09/Jun/2017 10:51:19] "GET /views/alert.html HTTP/1.1" 200 116 0.0171
+10.30.1.104 - - [09/Jun/2017 10:56:35] "GET /ops HTTP/1.1" 200 3918 0.0046
+10.30.1.104 - - [09/Jun/2017 10:56:35] "GET /events HTTP/1.1" 200 - 316.1121
+10.30.1.104 - - [09/Jun/2017 10:56:35] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 10:56:35] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 10:57:31] "GET /ops HTTP/1.1" 200 3921 0.0044
+10.30.1.104 - - [09/Jun/2017 10:57:32] "GET /events HTTP/1.1" 200 - 56.6114
+10.30.1.104 - - [09/Jun/2017 10:57:32] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 10:57:32] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 10:59:52] "GET /ops HTTP/1.1" 200 3921 0.0079
+10.30.1.104 - - [09/Jun/2017 10:59:52] "GET /events HTTP/1.1" 200 - 139.7347
+10.30.1.104 - - [09/Jun/2017 10:59:52] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0022
+10.30.1.104 - - [09/Jun/2017 10:59:52] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.104 - - [09/Jun/2017 11:00:37] "GET /ops HTTP/1.1" 200 3921 0.0069
+10.30.1.104 - - [09/Jun/2017 11:00:37] "GET /events HTTP/1.1" 200 - 45.1872
+10.30.1.104 - - [09/Jun/2017 11:00:37] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 11:00:37] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 11:01:14] "GET /ops HTTP/1.1" 200 3926 0.0078
+10.30.1.104 - - [09/Jun/2017 11:01:14] "GET /events HTTP/1.1" 200 - 37.0559
+10.30.1.104 - - [09/Jun/2017 11:01:15] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 11:01:15] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 11:01:27] "GET /ops HTTP/1.1" 200 3863 0.0188
+10.30.1.104 - - [09/Jun/2017 11:01:27] "GET /events HTTP/1.1" 200 - 12.3622
+10.30.1.104 - - [09/Jun/2017 11:01:28] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0018
+10.30.1.104 - - [09/Jun/2017 11:01:28] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 12:00:23] "GET /ops HTTP/1.1" 200 3912 0.0178
+10.30.1.104 - - [09/Jun/2017 12:00:23] "GET /events HTTP/1.1" 200 - 3535.2573
+10.30.1.104 - - [09/Jun/2017 12:00:23] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0018
+10.30.1.104 - - [09/Jun/2017 12:00:23] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 12:01:05] "GET /ops HTTP/1.1" 200 3927 0.0047
+10.30.1.104 - - [09/Jun/2017 12:01:05] "GET /events HTTP/1.1" 200 - 42.1662
+10.30.1.104 - - [09/Jun/2017 12:01:06] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 12:01:06] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 12:03:01] "GET /ops HTTP/1.1" 200 3941 0.0043
+10.30.1.104 - - [09/Jun/2017 12:03:01] "GET /events HTTP/1.1" 200 - 115.1409
+10.30.1.104 - - [09/Jun/2017 12:03:01] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0016
+10.30.1.104 - - [09/Jun/2017 12:03:01] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 12:03:29] "GET /ops HTTP/1.1" 200 3941 0.0050
+10.30.1.104 - - [09/Jun/2017 12:03:29] "GET /events HTTP/1.1" 200 - 28.1507
+10.30.1.104 - - [09/Jun/2017 12:03:29] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 12:03:29] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 12:03:54] "GET /ops HTTP/1.1" 200 3943 0.0069
+10.30.1.104 - - [09/Jun/2017 12:03:54] "GET /events HTTP/1.1" 200 - 25.1376
+10.30.1.104 - - [09/Jun/2017 12:03:55] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:03:55] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 12:07:26] "GET /ops HTTP/1.1" 200 3967 0.0090
+10.30.1.104 - - [09/Jun/2017 12:07:26] "GET /events HTTP/1.1" 200 - 211.2800
+10.30.1.104 - - [09/Jun/2017 12:07:26] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 12:07:26] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 12:07:40] "GET /ops HTTP/1.1" 200 3913 0.0040
+10.30.1.104 - - [09/Jun/2017 12:07:40] "GET /events HTTP/1.1" 200 - 13.3443
+10.30.1.104 - - [09/Jun/2017 12:07:40] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 12:07:40] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 12:08:44] "GET /ops HTTP/1.1" 200 3953 0.0050
+10.30.1.104 - - [09/Jun/2017 12:08:44] "GET /events HTTP/1.1" 200 - 64.3718
+10.30.1.104 - - [09/Jun/2017 12:08:45] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:08:45] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 12:09:14] "GET /ops HTTP/1.1" 200 3955 0.0037
+10.30.1.104 - - [09/Jun/2017 12:09:14] "GET /events HTTP/1.1" 200 - 28.9667
+10.30.1.104 - - [09/Jun/2017 12:09:14] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:09:14] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 12:11:37] "GET /ops HTTP/1.1" 200 4002 0.0048
+10.30.1.104 - - [09/Jun/2017 12:11:37] "GET /events HTTP/1.1" 200 - 142.5857
+10.30.1.104 - - [09/Jun/2017 12:11:37] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0019
+10.30.1.104 - - [09/Jun/2017 12:11:37] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 12:13:56] "GET /ops HTTP/1.1" 200 3956 0.0051
+10.30.1.104 - - [09/Jun/2017 12:13:56] "GET /events HTTP/1.1" 200 - 139.1843
+10.30.1.104 - - [09/Jun/2017 12:13:57] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:13:57] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 12:14:22] "GET /ops HTTP/1.1" 200 3968 0.0192
+10.30.1.104 - - [09/Jun/2017 12:14:22] "GET /events HTTP/1.1" 200 - 26.0369
+10.30.1.104 - - [09/Jun/2017 12:14:23] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.104 - - [09/Jun/2017 12:14:23] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 12:15:29] "GET /ops HTTP/1.1" 200 3968 0.0049
+10.30.1.104 - - [09/Jun/2017 12:15:29] "GET /events HTTP/1.1" 200 - 66.3407
+10.30.1.104 - - [09/Jun/2017 12:15:30] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 12:15:30] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 12:15:46] "GET /ops HTTP/1.1" 200 3969 0.0225
+10.30.1.104 - - [09/Jun/2017 12:15:46] "GET /events HTTP/1.1" 200 - 16.8870
+10.30.1.104 - - [09/Jun/2017 12:15:47] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:15:47] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 12:16:07] "GET /ops HTTP/1.1" 200 3973 0.0064
+10.30.1.104 - - [09/Jun/2017 12:16:07] "GET /events HTTP/1.1" 200 - 20.2772
+10.30.1.104 - - [09/Jun/2017 12:16:07] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 12:16:07] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 12:16:23] "GET /ops HTTP/1.1" 200 3990 0.0074
+10.30.1.104 - - [09/Jun/2017 12:16:23] "GET /events HTTP/1.1" 200 - 15.7184
+10.30.1.104 - - [09/Jun/2017 12:16:23] "GET /views/alert.html HTTP/1.1" 200 116 0.0018
+10.30.1.104 - - [09/Jun/2017 12:16:23] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:16:37] "GET /ops HTTP/1.1" 200 3988 0.0037
+10.30.1.104 - - [09/Jun/2017 12:16:37] "GET /events HTTP/1.1" 200 - 13.4081
+10.30.1.104 - - [09/Jun/2017 12:16:37] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:16:37] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 12:16:51] "GET /ops HTTP/1.1" 200 3981 0.0044
+10.30.1.104 - - [09/Jun/2017 12:16:51] "GET /events HTTP/1.1" 200 - 13.5230
+10.30.1.104 - - [09/Jun/2017 12:16:51] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 12:16:51] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 12:19:57] "GET /ops HTTP/1.1" 200 3988 0.0054
+10.30.1.104 - - [09/Jun/2017 12:19:57] "GET /events HTTP/1.1" 200 - 186.2807
+10.30.1.104 - - [09/Jun/2017 12:19:58] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0018
+10.30.1.104 - - [09/Jun/2017 12:19:58] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 12:20:10] "GET /ops HTTP/1.1" 200 3988 0.0067
+10.30.1.104 - - [09/Jun/2017 12:20:10] "GET /events HTTP/1.1" 200 - 12.1188
+10.30.1.104 - - [09/Jun/2017 12:20:10] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0014
+10.30.1.104 - - [09/Jun/2017 12:20:10] "GET /views/alert.html HTTP/1.1" 200 116 0.0015
+10.30.1.104 - - [09/Jun/2017 12:20:20] "GET /ops HTTP/1.1" 200 3988 0.0069
+10.30.1.104 - - [09/Jun/2017 12:20:20] "GET /events HTTP/1.1" 200 - 10.5619
+10.30.1.104 - - [09/Jun/2017 12:20:21] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:20:21] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 12:20:55] "GET /ops HTTP/1.1" 200 3978 0.0200
+10.30.1.104 - - [09/Jun/2017 12:20:55] "GET /events HTTP/1.1" 200 - 34.6054
+10.30.1.104 - - [09/Jun/2017 12:20:56] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 12:20:56] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+2017-06-09 12:33:18 - JSON::ParserError - 765: unexpected token at '{auth_token: YOUR_AUTH_TOKEN, progress_items:[{name: Hi':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+2017-06-09 12:34:19 - JSON::ParserError - 765: unexpected token at '{auth_token: "YOUR_AUTH_TOKEN", progress_items:[{name: Hi':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.0.156.71 - - [09/Jun/2017 12:48:13] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0017
+10.0.156.71 - - [09/Jun/2017 12:48:24] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.0.156.71 - - [09/Jun/2017 12:51:01] "POST /widgets/response_level1_tests HTTP/1.1" 204 - 0.0008
+2017-06-09 12:57:02 - JSON::ParserError - 765: unexpected token at '{auth_token: "YOUR_AUTH_TOKEN", progress_items:[{name: Hi':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.30.1.104 - - [09/Jun/2017 12:57:58] "GET /ops HTTP/1.1" 200 3978 0.0182
+10.30.1.104 - - [09/Jun/2017 12:57:58] "GET /events HTTP/1.1" 200 - 2222.5447
+10.30.1.104 - - [09/Jun/2017 12:57:59] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0018
+10.30.1.104 - - [09/Jun/2017 12:57:59] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 12:58:17] "GET /ops HTTP/1.1" 200 3978 0.0053
+10.30.1.104 - - [09/Jun/2017 12:58:17] "GET /events HTTP/1.1" 200 - 18.4007
+10.30.1.104 - - [09/Jun/2017 12:58:18] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 12:58:18] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.0.165.13 - - [09/Jun/2017 12:59:30] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.0.165.13 - - [09/Jun/2017 12:59:48] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0009
+10.0.165.13 - - [09/Jun/2017 13:00:30] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0012
+10.30.1.104 - - [09/Jun/2017 13:01:57] "GET /ops HTTP/1.1" 200 3978 0.0041
+10.30.1.104 - - [09/Jun/2017 13:01:57] "GET /events HTTP/1.1" 200 - 219.6173
+10.30.1.104 - - [09/Jun/2017 13:01:58] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 13:01:58] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 13:02:41] "GET /ops HTTP/1.1" 200 3978 0.0044
+10.30.1.104 - - [09/Jun/2017 13:02:41] "GET /events HTTP/1.1" 200 - 43.4544
+10.30.1.104 - - [09/Jun/2017 13:02:41] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 13:02:41] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:03:09] "GET /ops HTTP/1.1" 200 3978 0.0043
+10.30.1.104 - - [09/Jun/2017 13:03:09] "GET /events HTTP/1.1" 200 - 27.8822
+10.30.1.104 - - [09/Jun/2017 13:03:09] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0019
+10.30.1.104 - - [09/Jun/2017 13:03:09] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 13:04:13] "GET /ops HTTP/1.1" 200 3978 0.0051
+10.30.1.104 - - [09/Jun/2017 13:04:13] "GET /events HTTP/1.1" 200 - 63.6127
+10.30.1.104 - - [09/Jun/2017 13:04:13] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 13:04:13] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:04:35] "GET /ops HTTP/1.1" 200 3978 0.0045
+10.30.1.104 - - [09/Jun/2017 13:04:35] "GET /events HTTP/1.1" 200 - 21.6512
+10.30.1.104 - - [09/Jun/2017 13:04:35] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0018
+10.30.1.104 - - [09/Jun/2017 13:04:35] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 13:05:03] "GET /ops HTTP/1.1" 200 3978 0.0052
+10.30.1.104 - - [09/Jun/2017 13:05:03] "GET /events HTTP/1.1" 200 - 28.0886
+10.30.1.104 - - [09/Jun/2017 13:05:04] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0019
+10.30.1.104 - - [09/Jun/2017 13:05:04] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:05:19] "GET /ops HTTP/1.1" 200 3978 0.0051
+10.30.1.104 - - [09/Jun/2017 13:05:19] "GET /events HTTP/1.1" 200 - 15.0923
+10.30.1.104 - - [09/Jun/2017 13:05:19] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 13:05:19] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:05:28] "GET /ops HTTP/1.1" 200 3978 0.0065
+10.30.1.104 - - [09/Jun/2017 13:05:28] "GET /events HTTP/1.1" 200 - 9.0396
+10.30.1.104 - - [09/Jun/2017 13:05:29] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 13:05:29] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.0.165.13 - - [09/Jun/2017 13:05:42] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.30.1.104 - - [09/Jun/2017 13:09:48] "GET /ops HTTP/1.1" 200 3978 0.0048
+10.30.1.104 - - [09/Jun/2017 13:09:48] "GET /events HTTP/1.1" 200 - 259.2482
+10.30.1.104 - - [09/Jun/2017 13:09:48] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 13:09:48] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.0.165.13 - - [09/Jun/2017 13:13:13] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.30.1.104 - - [09/Jun/2017 13:14:27] "GET /ops HTTP/1.1" 200 3978 0.0066
+10.30.1.104 - - [09/Jun/2017 13:14:27] "GET /events HTTP/1.1" 200 - 278.5244
+10.30.1.104 - - [09/Jun/2017 13:14:27] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 13:14:27] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:15:18] "GET /ops HTTP/1.1" 200 3978 0.0045
+10.30.1.104 - - [09/Jun/2017 13:15:18] "GET /events HTTP/1.1" 200 - 50.6356
+10.30.1.104 - - [09/Jun/2017 13:15:18] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 13:15:18] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:15:34] "GET /ops HTTP/1.1" 200 3978 0.0041
+10.30.1.104 - - [09/Jun/2017 13:15:34] "GET /events HTTP/1.1" 200 - 15.5509
+10.30.1.104 - - [09/Jun/2017 13:15:34] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 13:15:34] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:16:24] "GET /ops HTTP/1.1" 200 3978 0.0063
+10.30.1.104 - - [09/Jun/2017 13:16:24] "GET /events HTTP/1.1" 200 - 49.9337
+10.30.1.104 - - [09/Jun/2017 13:16:24] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 13:16:24] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:16:45] "GET /ops HTTP/1.1" 200 3978 0.0047
+10.30.1.104 - - [09/Jun/2017 13:16:45] "GET /events HTTP/1.1" 200 - 20.3768
+10.30.1.104 - - [09/Jun/2017 13:16:45] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.104 - - [09/Jun/2017 13:16:45] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:18:01] "GET /ops HTTP/1.1" 200 3978 0.0050
+10.30.1.104 - - [09/Jun/2017 13:18:01] "GET /events HTTP/1.1" 200 - 76.4610
+10.30.1.104 - - [09/Jun/2017 13:18:02] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 13:18:02] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:19:17] "GET /ops HTTP/1.1" 200 3978 0.0047
+10.30.1.104 - - [09/Jun/2017 13:19:17] "GET /events HTTP/1.1" 200 - 75.5955
+10.30.1.104 - - [09/Jun/2017 13:19:18] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 13:19:18] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:19:56] "GET /ops HTTP/1.1" 200 3978 0.0045
+10.30.1.104 - - [09/Jun/2017 13:19:56] "GET /events HTTP/1.1" 200 - 38.4609
+10.30.1.104 - - [09/Jun/2017 13:19:56] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 13:19:56] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.0.165.13 - - [09/Jun/2017 13:20:22] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.30.1.104 - - [09/Jun/2017 13:20:50] "GET /ops HTTP/1.1" 200 3978 0.0047
+10.30.1.104 - - [09/Jun/2017 13:20:50] "GET /events HTTP/1.1" 200 - 53.9038
+10.30.1.104 - - [09/Jun/2017 13:20:51] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 13:20:51] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 13:21:04] "GET /ops HTTP/1.1" 200 3978 0.0037
+10.30.1.104 - - [09/Jun/2017 13:21:04] "GET /events HTTP/1.1" 200 - 13.8882
+10.30.1.104 - - [09/Jun/2017 13:21:05] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 13:21:05] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 13:23:43] "GET /ops HTTP/1.1" 200 3978 0.0201
+10.30.1.104 - - [09/Jun/2017 13:23:43] "GET /events HTTP/1.1" 200 - 158.2464
+10.30.1.104 - - [09/Jun/2017 13:23:43] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 13:23:43] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:24:11] "GET /ops HTTP/1.1" 200 3978 0.0045
+10.30.1.104 - - [09/Jun/2017 13:24:11] "GET /events HTTP/1.1" 200 - 27.6967
+10.30.1.104 - - [09/Jun/2017 13:24:11] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 13:24:11] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:24:35] "GET /ops HTTP/1.1" 200 3978 0.0044
+10.30.1.104 - - [09/Jun/2017 13:24:35] "GET /events HTTP/1.1" 200 - 23.8836
+10.30.1.104 - - [09/Jun/2017 13:24:36] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 13:24:36] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 13:30:30] "GET /ops HTTP/1.1" 200 4362 0.0047
+10.30.1.104 - - [09/Jun/2017 13:30:30] "GET /events HTTP/1.1" 200 - 354.8038
+10.30.1.104 - - [09/Jun/2017 13:30:31] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:30:31] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 13:41:39] "GET /ops HTTP/1.1" 200 4363 0.0046
+10.30.1.104 - - [09/Jun/2017 13:41:39] "GET /events HTTP/1.1" 200 - 667.9024
+10.30.1.104 - - [09/Jun/2017 13:41:39] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:41:39] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 13:47:16] "GET /ops HTTP/1.1" 200 4365 0.0058
+10.30.1.104 - - [09/Jun/2017 13:47:16] "GET /events HTTP/1.1" 200 - 337.5117
+10.30.1.104 - - [09/Jun/2017 13:47:17] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 13:47:17] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 13:51:30] "GET /ops HTTP/1.1" 200 4365 0.0049
+10.30.1.104 - - [09/Jun/2017 13:51:30] "GET /events HTTP/1.1" 200 - 253.3354
+10.30.1.104 - - [09/Jun/2017 13:51:31] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 13:51:31] "GET /views/alert.html HTTP/1.1" 200 116 0.0140
+10.0.165.13 - - [09/Jun/2017 13:53:52] "POST /widgets/intellego_src_branch HTTP/1.1" 204 - 0.0010
+10.30.1.104 - - [09/Jun/2017 13:53:55] "GET /ops HTTP/1.1" 200 4365 0.0185
+10.30.1.104 - - [09/Jun/2017 13:53:55] "GET /events HTTP/1.1" 200 - 144.2534
+10.30.1.104 - - [09/Jun/2017 13:53:55] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 13:53:55] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 13:58:28] "GET /ops HTTP/1.1" 200 4365 0.0056
+10.30.1.104 - - [09/Jun/2017 13:58:28] "GET /events HTTP/1.1" 200 - 272.4376
+10.30.1.104 - - [09/Jun/2017 13:58:28] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 13:58:28] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.0.165.13 - - [09/Jun/2017 13:59:20] "POST /widgets/intellego_src_branch HTTP/1.1" 204 - 0.0011
+10.30.1.104 - - [09/Jun/2017 13:59:24] "GET /ops HTTP/1.1" 200 4365 0.0044
+10.30.1.104 - - [09/Jun/2017 13:59:24] "GET /events HTTP/1.1" 200 - 56.2686
+10.30.1.104 - - [09/Jun/2017 13:59:25] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0139
+10.30.1.104 - - [09/Jun/2017 13:59:25] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 14:01:30] "GET /ops HTTP/1.1" 200 4559 0.0190
+10.30.1.104 - - [09/Jun/2017 14:01:30] "GET /events HTTP/1.1" 200 - 125.2415
+10.30.1.104 - - [09/Jun/2017 14:01:30] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.104 - - [09/Jun/2017 14:01:30] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 14:01:43] "GET /ops HTTP/1.1" 200 4559 0.0041
+10.30.1.104 - - [09/Jun/2017 14:01:43] "GET /events HTTP/1.1" 200 - 12.9785
+10.30.1.104 - - [09/Jun/2017 14:01:43] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 14:01:44] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 14:03:32] "GET /ops HTTP/1.1" 200 4369 0.0074
+10.30.1.104 - - [09/Jun/2017 14:03:32] "GET /events HTTP/1.1" 200 - 108.8146
+10.30.1.104 - - [09/Jun/2017 14:03:33] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 14:03:33] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 15:17:10] "GET /sample HTTP/1.1" 200 2330 0.0062
+10.30.1.104 - - [09/Jun/2017 15:17:10] "GET /events HTTP/1.1" 200 - 4417.4888
+10.30.1.104 - - [09/Jun/2017 15:17:15] "GET /views/text.html HTTP/1.1" 200 175 0.0017
+10.30.1.104 - - [09/Jun/2017 15:17:15] "GET /views/meter.html HTTP/1.1" 200 442 0.0013
+10.30.1.104 - - [09/Jun/2017 15:17:15] "GET /views/list.html HTTP/1.1" 200 493 0.0012
+10.30.1.104 - - [09/Jun/2017 15:17:15] "GET /views/number.html HTTP/1.1" 200 343 0.0011
+10.30.1.104 - - [09/Jun/2017 15:17:15] "GET /views/graph.html HTTP/1.1" 200 183 0.0011
+10.30.1.104 - - [09/Jun/2017 15:20:30] "GET /ops HTTP/1.1" 200 4589 0.0046
+10.30.1.104 - - [09/Jun/2017 15:20:30] "GET /events HTTP/1.1" 200 - 195.3862
+10.30.1.104 - - [09/Jun/2017 15:20:31] "GET /views/number.html HTTP/1.1" 200 343 0.0009
+10.30.1.104 - - [09/Jun/2017 15:20:31] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 15:20:31] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 15:23:40] "GET /ops HTTP/1.1" 200 4839 0.0048
+10.30.1.104 - - [09/Jun/2017 15:23:40] "GET /events HTTP/1.1" 200 - 189.9593
+10.30.1.104 - - [09/Jun/2017 15:23:41] "GET /views/number.html HTTP/1.1" 200 355 0.0008
+10.30.1.104 - - [09/Jun/2017 15:23:41] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 15:23:41] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 15:24:29] "GET /ops HTTP/1.1" 200 4839 0.0050
+10.30.1.104 - - [09/Jun/2017 15:24:29] "GET /events HTTP/1.1" 200 - 48.1580
+10.30.1.104 - - [09/Jun/2017 15:24:29] "GET /views/number.html HTTP/1.1" 200 355 0.0135
+10.30.1.104 - - [09/Jun/2017 15:24:29] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.104 - - [09/Jun/2017 15:24:29] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 15:25:53] "GET /ops HTTP/1.1" 200 4850 0.0084
+10.30.1.104 - - [09/Jun/2017 15:25:53] "GET /events HTTP/1.1" 200 - 83.9461
+10.30.1.104 - - [09/Jun/2017 15:25:54] "GET /views/number.html HTTP/1.1" 200 355 0.0008
+10.30.1.104 - - [09/Jun/2017 15:25:54] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 15:25:54] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 15:26:10] "GET /ops HTTP/1.1" 200 4850 0.0042
+10.30.1.104 - - [09/Jun/2017 15:26:10] "GET /events HTTP/1.1" 200 - 16.7557
+10.30.1.104 - - [09/Jun/2017 15:26:11] "GET /views/number.html HTTP/1.1" 200 355 0.0016
+10.30.1.104 - - [09/Jun/2017 15:26:11] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 15:26:11] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 15:27:23] "GET /ops HTTP/1.1" 200 4850 0.0049
+10.30.1.104 - - [09/Jun/2017 15:27:23] "GET /events HTTP/1.1" 200 - 72.0630
+10.30.1.104 - - [09/Jun/2017 15:27:23] "GET /views/number.html HTTP/1.1" 200 355 0.0008
+10.30.1.104 - - [09/Jun/2017 15:27:23] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.104 - - [09/Jun/2017 15:27:23] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 15:47:25] "GET /ops HTTP/1.1" 200 4819 0.0082
+10.30.1.104 - - [09/Jun/2017 15:47:25] "GET /events HTTP/1.1" 200 - 1201.6798
+10.30.1.104 - - [09/Jun/2017 15:47:25] "GET /views/number.html HTTP/1.1" 200 355 0.0009
+10.30.1.104 - - [09/Jun/2017 15:47:25] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 15:47:25] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 15:48:34] "GET /ops HTTP/1.1" 200 4832 0.0185
+10.30.1.104 - - [09/Jun/2017 15:48:34] "GET /events HTTP/1.1" 200 - 68.6684
+10.30.1.104 - - [09/Jun/2017 15:48:34] "GET /views/number.html HTTP/1.1" 200 355 0.0008
+10.30.1.104 - - [09/Jun/2017 15:48:34] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.104 - - [09/Jun/2017 15:48:34] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 15:49:04] "GET /ops HTTP/1.1" 200 4824 0.0076
+10.30.1.104 - - [09/Jun/2017 15:49:04] "GET /events HTTP/1.1" 200 - 29.7552
+10.30.1.104 - - [09/Jun/2017 15:49:04] "GET /views/number.html HTTP/1.1" 200 355 0.0014
+10.30.1.104 - - [09/Jun/2017 15:49:04] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 15:49:04] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 15:50:26] "GET /ops HTTP/1.1" 200 4603 0.0046
+10.30.1.104 - - [09/Jun/2017 15:50:26] "GET /events HTTP/1.1" 200 - 82.2267
+10.30.1.104 - - [09/Jun/2017 15:50:27] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 15:50:27] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 15:50:27] "GET /views/number.html HTTP/1.1" 200 355 0.0008
+10.30.1.104 - - [09/Jun/2017 15:51:43] "GET /ops HTTP/1.1" 200 4384 0.0071
+10.30.1.104 - - [09/Jun/2017 15:51:43] "GET /events HTTP/1.1" 200 - 76.5617
+10.30.1.104 - - [09/Jun/2017 15:51:44] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 15:51:44] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.104 - - [09/Jun/2017 15:53:18] "GET /ops HTTP/1.1" 200 4384 0.0174
+10.30.1.104 - - [09/Jun/2017 15:53:18] "GET /events HTTP/1.1" 200 - 94.4111
+10.30.1.104 - - [09/Jun/2017 15:53:18] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 15:53:18] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 15:58:24] "GET /ops HTTP/1.1" 200 4386 0.0045
+10.30.1.104 - - [09/Jun/2017 15:58:24] "GET /events HTTP/1.1" 200 - 305.3396
+10.30.1.104 - - [09/Jun/2017 15:58:24] "GET /views/alerty.html HTTP/1.1" 200 60 0.0014
+10.30.1.104 - - [09/Jun/2017 15:58:24] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 15:58:24] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 15:59:50] "GET /ops HTTP/1.1" 200 4386 0.0043
+10.30.1.104 - - [09/Jun/2017 15:59:50] "GET /events HTTP/1.1" 200 - 86.5587
+10.30.1.104 - - [09/Jun/2017 15:59:51] "GET /views/alerty.html HTTP/1.1" 200 58 0.0013
+10.30.1.104 - - [09/Jun/2017 15:59:51] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 15:59:51] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 16:00:42] "GET /ops HTTP/1.1" 200 4386 0.0174
+10.30.1.104 - - [09/Jun/2017 16:00:42] "GET /events HTTP/1.1" 200 - 51.4904
+10.30.1.104 - - [09/Jun/2017 16:00:43] "GET /views/alerty.html HTTP/1.1" 200 58 0.0016
+10.30.1.104 - - [09/Jun/2017 16:00:43] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0016
+10.30.1.104 - - [09/Jun/2017 16:00:43] "GET /views/alert.html HTTP/1.1" 200 116 0.0015
+2017-06-09 16:02:28 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": "master", "value": master }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.0.165.13 - - [09/Jun/2017 16:02:42] "POST /widgets/response_intellego_src_branch HTTP/1.1" 204 - 0.0009
+10.30.1.104 - - [09/Jun/2017 16:02:46] "GET /ops HTTP/1.1" 200 4386 0.0049
+10.30.1.104 - - [09/Jun/2017 16:02:46] "GET /events HTTP/1.1" 200 - 122.9347
+10.30.1.104 - - [09/Jun/2017 16:02:46] "GET /views/alerty.html HTTP/1.1" 200 58 0.0010
+10.30.1.104 - - [09/Jun/2017 16:02:46] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 16:02:46] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 16:05:50] "GET /ops HTTP/1.1" 200 4388 0.0047
+10.30.1.104 - - [09/Jun/2017 16:05:50] "GET /events HTTP/1.1" 200 - 183.7633
+10.30.1.104 - - [09/Jun/2017 16:05:50] "GET /views/alerty.html HTTP/1.1" 200 60 0.0017
+10.30.1.104 - - [09/Jun/2017 16:05:50] "GET /views/alert.html HTTP/1.1" 200 116 0.0015
+10.30.1.104 - - [09/Jun/2017 16:05:50] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.30.1.104 - - [09/Jun/2017 16:09:37] "GET /ops HTTP/1.1" 200 4388 0.0060
+10.30.1.104 - - [09/Jun/2017 16:09:37] "GET /events HTTP/1.1" 200 - 227.0917
+10.30.1.104 - - [09/Jun/2017 16:09:37] "GET /views/alerty.html HTTP/1.1" 200 59 0.0017
+10.30.1.104 - - [09/Jun/2017 16:09:37] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.104 - - [09/Jun/2017 16:09:37] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 16:13:47] "GET /ops HTTP/1.1" 200 4420 0.0046
+10.30.1.104 - - [09/Jun/2017 16:13:47] "GET /events HTTP/1.1" 200 - 249.7863
+10.30.1.104 - - [09/Jun/2017 16:13:48] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 16:13:48] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 16:14:23] "GET /ops HTTP/1.1" 200 4389 0.0040
+10.30.1.104 - - [09/Jun/2017 16:14:23] "GET /events HTTP/1.1" 200 - 35.2683
+10.30.1.104 - - [09/Jun/2017 16:14:23] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 16:14:23] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 16:14:47] "GET /ops HTTP/1.1" 200 4391 0.0072
+10.30.1.104 - - [09/Jun/2017 16:14:47] "GET /events HTTP/1.1" 200 - 23.6012
+10.30.1.104 - - [09/Jun/2017 16:14:47] "GET /views/alerty.html HTTP/1.1" 200 59 0.0016
+10.30.1.104 - - [09/Jun/2017 16:14:47] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 16:14:47] "GET /views/alert.html HTTP/1.1" 200 116 0.0017
+10.30.1.104 - - [09/Jun/2017 16:16:24] "GET /ops HTTP/1.1" 200 4391 0.0051
+10.30.1.104 - - [09/Jun/2017 16:16:24] "GET /events HTTP/1.1" 200 - 96.6993
+10.30.1.104 - - [09/Jun/2017 16:16:24] "GET /views/alerty.html HTTP/1.1" 200 58 0.0013
+10.30.1.104 - - [09/Jun/2017 16:16:24] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.104 - - [09/Jun/2017 16:16:24] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.104 - - [09/Jun/2017 16:16:49] "GET /ops HTTP/1.1" 200 4391 0.0048
+10.30.1.104 - - [09/Jun/2017 16:16:49] "GET /events HTTP/1.1" 200 - 24.8170
+10.30.1.104 - - [09/Jun/2017 16:16:49] "GET /views/alerty.html HTTP/1.1" 200 58 0.0017
+10.30.1.104 - - [09/Jun/2017 16:16:49] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0014
+10.30.1.104 - - [09/Jun/2017 16:16:49] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 16:17:09] "GET /ops HTTP/1.1" 200 4391 0.0069
+10.30.1.104 - - [09/Jun/2017 16:17:09] "GET /events HTTP/1.1" 200 - 19.7677
+10.30.1.104 - - [09/Jun/2017 16:17:09] "GET /views/alerty.html HTTP/1.1" 200 58 0.0010
+10.30.1.104 - - [09/Jun/2017 16:17:09] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 16:17:09] "GET /views/alert.html HTTP/1.1" 200 116 0.0007
+10.30.1.104 - - [09/Jun/2017 16:18:21] "GET /ops HTTP/1.1" 200 4393 0.0045
+10.30.1.104 - - [09/Jun/2017 16:18:21] "GET /events HTTP/1.1" 200 - 71.3456
+10.30.1.104 - - [09/Jun/2017 16:18:21] "GET /views/alerty.html HTTP/1.1" 200 58 0.0010
+10.30.1.104 - - [09/Jun/2017 16:18:21] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 16:18:21] "GET /views/alert.html HTTP/1.1" 200 116 0.0006
+10.30.1.104 - - [09/Jun/2017 16:19:12] "GET /ops HTTP/1.1" 200 4389 0.0181
+10.30.1.104 - - [09/Jun/2017 16:19:12] "GET /events HTTP/1.1" 200 - 50.9380
+10.30.1.104 - - [09/Jun/2017 16:19:12] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 16:19:12] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+2017-06-09 16:19:47 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": "master", "value": master }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.0.165.13 - - [09/Jun/2017 16:20:00] "POST /widgets/response_rest_api_src_branch HTTP/1.1" 204 - 0.0009
+10.0.165.13 - - [09/Jun/2017 16:20:12] "POST /widgets/response_rest_api_src_branch HTTP/1.1" 204 - 0.0007
+10.30.1.104 - - [09/Jun/2017 16:27:59] "GET /ops HTTP/1.1" 200 4389 0.0086
+10.30.1.104 - - [09/Jun/2017 16:27:59] "GET /events HTTP/1.1" 200 - 527.0431
+10.30.1.104 - - [09/Jun/2017 16:28:00] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 16:28:00] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 16:28:09] "GET /ops HTTP/1.1" 200 4389 0.0042
+10.30.1.104 - - [09/Jun/2017 16:28:09] "GET /events HTTP/1.1" 200 - 9.6103
+10.30.1.104 - - [09/Jun/2017 16:28:10] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 16:28:10] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 16:28:37] "GET /ops HTTP/1.1" 200 4389 0.0045
+10.30.1.104 - - [09/Jun/2017 16:28:37] "GET /events HTTP/1.1" 200 - 27.1256
+10.30.1.104 - - [09/Jun/2017 16:28:37] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 16:28:37] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 16:28:48] "GET /ops HTTP/1.1" 200 4389 0.0040
+10.30.1.104 - - [09/Jun/2017 16:28:48] "GET /events HTTP/1.1" 200 - 10.7436
+10.30.1.104 - - [09/Jun/2017 16:28:48] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 16:28:48] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0134
+10.30.1.104 - - [09/Jun/2017 16:29:31] "GET /ops HTTP/1.1" 200 4389 0.0045
+10.30.1.104 - - [09/Jun/2017 16:29:31] "GET /events HTTP/1.1" 200 - 42.8836
+10.30.1.104 - - [09/Jun/2017 16:29:32] "GET /views/alert.html HTTP/1.1" 200 116 0.0021
+10.30.1.104 - - [09/Jun/2017 16:29:32] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 16:29:43] "GET /ops HTTP/1.1" 200 4389 0.0166
+10.30.1.104 - - [09/Jun/2017 16:29:43] "GET /events HTTP/1.1" 200 - 11.7071
+10.30.1.104 - - [09/Jun/2017 16:29:44] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 16:29:44] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 16:29:58] "GET /ops HTTP/1.1" 200 4389 0.0040
+10.30.1.104 - - [09/Jun/2017 16:29:58] "GET /events HTTP/1.1" 200 - 14.2399
+10.30.1.104 - - [09/Jun/2017 16:29:58] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 16:29:58] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0130
+10.30.1.104 - - [09/Jun/2017 16:31:03] "GET /ops HTTP/1.1" 200 4389 0.0045
+10.30.1.104 - - [09/Jun/2017 16:31:03] "GET /events HTTP/1.1" 200 - 64.8249
+10.30.1.104 - - [09/Jun/2017 16:31:03] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 16:31:03] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 16:31:15] "GET /ops HTTP/1.1" 200 4389 0.0063
+10.30.1.104 - - [09/Jun/2017 16:31:15] "GET /events HTTP/1.1" 200 - 11.5581
+10.30.1.104 - - [09/Jun/2017 16:31:15] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.104 - - [09/Jun/2017 16:31:15] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.104 - - [09/Jun/2017 16:31:25] "GET /ops HTTP/1.1" 200 4389 0.0058
+10.30.1.104 - - [09/Jun/2017 16:31:25] "GET /events HTTP/1.1" 200 - 9.6425
+10.30.1.104 - - [09/Jun/2017 16:31:25] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.104 - - [09/Jun/2017 16:31:25] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0144
+10.30.1.104 - - [09/Jun/2017 18:01:03] "GET /ops HTTP/1.1" 200 4389 0.0074
+10.30.1.104 - - [09/Jun/2017 18:01:03] "GET /events HTTP/1.1" 200 - 5377.9497
+10.30.1.104 - - [09/Jun/2017 18:01:03] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 18:01:03] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 18:02:16] "GET /ops HTTP/1.1" 200 4379 0.0042
+10.30.1.104 - - [09/Jun/2017 18:02:16] "GET /events HTTP/1.1" 200 - 72.2298
+10.30.1.104 - - [09/Jun/2017 18:02:16] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.104 - - [09/Jun/2017 18:02:16] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+2017-06-09 18:21:53 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": master, "value": 0 }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+2017-06-09 18:21:53 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": master, "value": 0 }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.0.156.71 - - [09/Jun/2017 18:22:03] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [09/Jun/2017 18:22:06] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0005
+10.30.1.104 - - [09/Jun/2017 18:22:15] "GET /ops HTTP/1.1" 200 4379 0.0043
+10.30.1.104 - - [09/Jun/2017 18:22:15] "GET /events HTTP/1.1" 200 - 1198.7156
+10.30.1.104 - - [09/Jun/2017 18:22:15] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 18:22:15] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+2017-06-09 18:24:03 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": master, "value": 0 }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.0.156.71 - - [09/Jun/2017 18:24:22] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0010
+10.0.156.71 - - [09/Jun/2017 18:24:23] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.0.165.13 - - [09/Jun/2017 18:24:30] "POST /widgets/response_rest_api_src_branch HTTP/1.1" 204 - 0.0008
+10.0.156.71 - - [09/Jun/2017 18:24:32] "POST /widgets/response_level1_tests HTTP/1.1" 204 - 0.0006
+10.0.165.13 - - [09/Jun/2017 18:30:46] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.0.165.13 - - [09/Jun/2017 18:31:13] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.0.165.13 - - [09/Jun/2017 18:34:10] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.30.1.104 - - [09/Jun/2017 18:35:04] "GET /ops HTTP/1.1" 200 4379 0.0073
+10.30.1.104 - - [09/Jun/2017 18:35:04] "GET /events HTTP/1.1" 200 - 768.7690
+10.30.1.104 - - [09/Jun/2017 18:35:04] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 18:35:04] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 18:36:13] "GET /ops HTTP/1.1" 200 4379 0.0042
+10.30.1.104 - - [09/Jun/2017 18:36:13] "GET /events HTTP/1.1" 200 - 68.9955
+10.30.1.104 - - [09/Jun/2017 18:36:14] "GET /views/alert.html HTTP/1.1" 200 116 0.0016
+10.30.1.104 - - [09/Jun/2017 18:36:14] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 18:36:26] "GET /ops HTTP/1.1" 200 4379 0.0040
+10.30.1.104 - - [09/Jun/2017 18:36:27] "GET /events HTTP/1.1" 200 - 13.0699
+10.30.1.104 - - [09/Jun/2017 18:36:27] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 18:36:27] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 18:38:37] "GET /ops HTTP/1.1" 200 4379 0.0210
+10.30.1.104 - - [09/Jun/2017 18:38:37] "GET /events HTTP/1.1" 200 - 130.5736
+10.30.1.104 - - [09/Jun/2017 18:38:38] "GET /views/alert.html HTTP/1.1" 200 116 0.0016
+10.30.1.104 - - [09/Jun/2017 18:38:38] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 18:39:03] "GET /ops HTTP/1.1" 200 4379 0.0070
+10.30.1.104 - - [09/Jun/2017 18:39:03] "GET /events HTTP/1.1" 200 - 25.1096
+10.30.1.104 - - [09/Jun/2017 18:39:03] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 18:39:03] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 18:39:41] "GET /ops HTTP/1.1" 200 4379 0.0043
+10.30.1.104 - - [09/Jun/2017 18:39:41] "GET /events HTTP/1.1" 200 - 38.0780
+10.30.1.104 - - [09/Jun/2017 18:39:42] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 18:39:42] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 18:44:58] "GET /ops HTTP/1.1" 200 4379 0.0057
+10.30.1.104 - - [09/Jun/2017 18:44:58] "GET /events HTTP/1.1" 200 - 316.4280
+10.30.1.104 - - [09/Jun/2017 18:44:58] "GET /views/alert.html HTTP/1.1" 200 116 0.0017
+10.30.1.104 - - [09/Jun/2017 18:44:58] "GET /views/hot_progress_bars.html HTTP/1.1" 200 1 0.0010
+10.30.1.104 - - [09/Jun/2017 18:45:08] "GET /ops HTTP/1.1" 200 4379 0.0074
+10.30.1.104 - - [09/Jun/2017 18:45:08] "GET /events HTTP/1.1" 200 - 9.6475
+10.30.1.104 - - [09/Jun/2017 18:45:08] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 18:45:08] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.104 - - [09/Jun/2017 18:46:04] "GET /ops HTTP/1.1" 200 4379 0.0045
+10.30.1.104 - - [09/Jun/2017 18:46:04] "GET /events HTTP/1.1" 200 - 55.5321
+10.30.1.104 - - [09/Jun/2017 18:46:04] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 18:46:04] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 18:46:35] "GET /ops HTTP/1.1" 200 4379 0.0042
+10.30.1.104 - - [09/Jun/2017 18:46:35] "GET /events HTTP/1.1" 200 - 30.5898
+10.30.1.104 - - [09/Jun/2017 18:46:35] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 18:46:35] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.104 - - [09/Jun/2017 18:50:12] "GET /ops HTTP/1.1" 200 4423 0.0047
+10.30.1.104 - - [09/Jun/2017 18:50:12] "GET /events HTTP/1.1" 200 - 217.0698
+10.30.1.104 - - [09/Jun/2017 18:50:13] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 18:50:13] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 18:51:43] "GET /ops HTTP/1.1" 200 4421 0.0229
+10.30.1.104 - - [09/Jun/2017 18:51:43] "GET /events HTTP/1.1" 200 - 90.9623
+10.30.1.104 - - [09/Jun/2017 18:51:44] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 18:51:44] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.104 - - [09/Jun/2017 18:52:43] "GET /ops HTTP/1.1" 200 4421 0.0043
+10.30.1.104 - - [09/Jun/2017 18:52:43] "GET /events HTTP/1.1" 200 - 59.3269
+10.30.1.104 - - [09/Jun/2017 18:52:43] "GET /views/alert.html HTTP/1.1" 200 116 0.0152
+10.30.1.104 - - [09/Jun/2017 18:52:43] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 18:53:25] "GET /ops HTTP/1.1" 200 4421 0.0043
+10.30.1.104 - - [09/Jun/2017 18:53:25] "GET /events HTTP/1.1" 200 - 41.3475
+10.30.1.104 - - [09/Jun/2017 18:53:25] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.104 - - [09/Jun/2017 18:53:25] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 18:56:13] "GET /events HTTP/1.1" 200 - 168.3697
+10.30.1.104 - - [09/Jun/2017 19:00:41] "GET /ops HTTP/1.1" 200 4421 0.0058
+10.30.1.104 - - [09/Jun/2017 19:00:41] "GET /events HTTP/1.1" 200 - 264.6593
+10.30.1.104 - - [09/Jun/2017 19:00:42] "GET /views/alert.html HTTP/1.1" 200 116 0.0021
+10.30.1.104 - - [09/Jun/2017 19:00:42] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0177
+10.30.1.104 - - [09/Jun/2017 19:01:30] "GET /ops HTTP/1.1" 200 4421 0.0050
+10.30.1.104 - - [09/Jun/2017 19:01:30] "GET /events HTTP/1.1" 200 - 48.6878
+10.30.1.104 - - [09/Jun/2017 19:01:31] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 19:01:31] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.0.165.13 - - [09/Jun/2017 19:03:09] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0019
+10.0.165.13 - - [09/Jun/2017 19:03:38] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0011
+10.0.165.13 - - [09/Jun/2017 19:04:02] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.30.1.104 - - [09/Jun/2017 19:05:58] "GET /ops HTTP/1.1" 200 4421 0.0048
+10.30.1.104 - - [09/Jun/2017 19:05:58] "GET /events HTTP/1.1" 200 - 266.9235
+10.30.1.104 - - [09/Jun/2017 19:06:03] "GET /views/alert.html HTTP/1.1" 200 116 0.0018
+10.30.1.104 - - [09/Jun/2017 19:06:03] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0016
+10.30.1.104 - - [09/Jun/2017 19:06:27] "GET /ops HTTP/1.1" 200 4421 0.0051
+10.30.1.104 - - [09/Jun/2017 19:06:27] "GET /events HTTP/1.1" 200 - 24.3810
+10.30.1.104 - - [09/Jun/2017 19:06:27] "GET /views/alert.html HTTP/1.1" 200 116 0.0017
+10.30.1.104 - - [09/Jun/2017 19:06:27] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.104 - - [09/Jun/2017 19:07:01] "GET /ops HTTP/1.1" 200 4421 0.0048
+10.30.1.104 - - [09/Jun/2017 19:07:01] "GET /events HTTP/1.1" 200 - 33.9826
+10.30.1.104 - - [09/Jun/2017 19:07:02] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 19:07:02] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 19:11:12] "GET /ops HTTP/1.1" 200 4421 0.0089
+10.30.1.104 - - [09/Jun/2017 19:11:12] "GET /events HTTP/1.1" 200 - 250.3368
+10.30.1.104 - - [09/Jun/2017 19:11:12] "GET /views/alert.html HTTP/1.1" 200 116 0.0020
+10.30.1.104 - - [09/Jun/2017 19:11:12] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.0.165.13 - - [09/Jun/2017 19:11:47] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0014
+10.30.1.104 - - [09/Jun/2017 19:11:50] "GET /ops HTTP/1.1" 200 4421 0.0041
+10.30.1.104 - - [09/Jun/2017 19:11:50] "GET /events HTTP/1.1" 200 - 37.2943
+10.30.1.104 - - [09/Jun/2017 19:11:50] "GET /views/alert.html HTTP/1.1" 200 116 0.0018
+10.30.1.104 - - [09/Jun/2017 19:11:50] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0015
+10.30.1.104 - - [09/Jun/2017 21:44:06] "GET /ops HTTP/1.1" 200 4421 0.0233
+10.30.1.104 - - [09/Jun/2017 21:44:06] "GET /events HTTP/1.1" 200 - 9135.7738
+10.30.1.104 - - [09/Jun/2017 21:44:06] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.104 - - [09/Jun/2017 21:44:06] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 22:07:06] "GET /events HTTP/1.1" 200 - 1379.5659
+10.30.1.104 - - [09/Jun/2017 22:09:40] "GET /ops HTTP/1.1" 200 4421 0.0078
+10.30.1.104 - - [09/Jun/2017 22:09:40] "GET /events HTTP/1.1" 200 - 52.0405
+10.30.1.104 - - [09/Jun/2017 22:09:41] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 22:09:41] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /sample HTTP/1.1" 200 2330 0.0194
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /events HTTP/1.1" 200 - 15.9380
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /views/text.html HTTP/1.1" 200 175 0.0008
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /views/meter.html HTTP/1.1" 200 442 0.0012
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /views/list.html HTTP/1.1" 200 493 0.0014
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /views/number.html HTTP/1.1" 200 355 0.0015
+10.30.1.104 - - [09/Jun/2017 22:09:57] "GET /views/graph.html HTTP/1.1" 200 183 0.0013
+10.30.1.104 - - [09/Jun/2017 22:10:13] "GET /ops HTTP/1.1" 200 4421 0.0045
+10.30.1.104 - - [09/Jun/2017 22:10:13] "GET /events HTTP/1.1" 200 - 15.5152
+10.30.1.104 - - [09/Jun/2017 22:10:13] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.104 - - [09/Jun/2017 22:10:13] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 22:10:47] "GET /ops HTTP/1.1" 200 4247 0.0049
+10.30.1.104 - - [09/Jun/2017 22:10:47] "GET /events HTTP/1.1" 200 - 34.0772
+10.30.1.104 - - [09/Jun/2017 22:10:47] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 22:11:02] "GET /ops HTTP/1.1" 200 4421 0.0072
+10.30.1.104 - - [09/Jun/2017 22:11:02] "GET /events HTTP/1.1" 200 - 14.9004
+10.30.1.104 - - [09/Jun/2017 22:11:02] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 22:11:03] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 22:13:41] "GET /ops HTTP/1.1" 200 4379 0.0053
+10.30.1.104 - - [09/Jun/2017 22:13:41] "GET /events HTTP/1.1" 200 - 158.3096
+10.30.1.104 - - [09/Jun/2017 22:13:41] "GET /views/alert.html HTTP/1.1" 200 116 0.0017
+10.30.1.104 - - [09/Jun/2017 22:13:41] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.104 - - [09/Jun/2017 22:14:28] "GET /events HTTP/1.1" 200 - 47.0925
+Waiting for 3 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.4 codename Gob Bluth)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+10.30.1.104 - - [09/Jun/2017 22:14:54] "GET /ops HTTP/1.1" 200 4421 0.0070
+10.30.1.104 - - [09/Jun/2017 22:14:54] "GET /events HTTP/1.1" 200 - 2.6319
+10.30.1.104 - - [09/Jun/2017 22:14:55] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.104 - - [09/Jun/2017 22:14:55] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.0.165.13 - - [09/Jun/2017 22:16:28] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0009
+10.30.1.104 - - [09/Jun/2017 22:16:31] "GET /ops HTTP/1.1" 200 4421 0.0051
+10.30.1.104 - - [09/Jun/2017 22:16:31] "GET /events HTTP/1.1" 200 - 96.2746
+10.30.1.104 - - [09/Jun/2017 22:16:31] "GET /views/alert.html HTTP/1.1" 200 116 0.0021
+10.30.1.104 - - [09/Jun/2017 22:16:31] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.104 - - [09/Jun/2017 22:22:36] "GET /ops HTTP/1.1" 200 4421 0.0079
+10.30.1.104 - - [09/Jun/2017 22:22:36] "GET /events HTTP/1.1" 200 - 365.1303
+10.30.1.104 - - [09/Jun/2017 22:22:37] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.104 - - [09/Jun/2017 22:22:37] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.104 - - [09/Jun/2017 22:50:46] "GET /events HTTP/1.1" 200 - 1689.5361
+2017-06-10 02:56:14 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": master, "value": 0 }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+2017-06-10 02:56:14 - JSON::ParserError - 765: unexpected token at '{ "auth_token": "YOUR_AUTH_TOKEN", "text": master, "value": 0 }':
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/json-2.1.0/lib/json/common.rb:156:in `parse'
+	/usr/local/share/gems/gems/smashing-1.0.0/lib/dashing/app.rb:108:in `block in <top (required)>'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1611:in `block in compile!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `[]'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (3 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:994:in `route_eval'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:975:in `block (2 levels) in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1015:in `block in process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1013:in `process_route'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:973:in `block in route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `each'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:972:in `route!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1085:in `block in dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1082:in `dispatch!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `block in call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `block in invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `catch'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1067:in `invoke'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:907:in `call!'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:895:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/xss_header.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/path_traversal.rb:16:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/json_csrf.rb:18:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/base.rb:49:in `call'
+	/usr/local/share/gems/gems/rack-protection-1.5.3/lib/rack/protection/frame_options.rb:31:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/logger.rb:15:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/commonlogger.rb:33:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:219:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:212:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/head.rb:11:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/methodoverride.rb:21:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/show_exceptions.rb:25:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:182:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:2013:in `call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `block in call'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1787:in `synchronize'
+	/usr/local/share/gems/gems/sinatra-1.4.8/lib/sinatra/base.rb:1487:in `call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:65:in `block in call'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `each'
+	/usr/local/share/gems/gems/rack-1.5.5/lib/rack/urlmap.rb:50:in `call'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:86:in `block in pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `catch'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:84:in `pre_process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:53:in `process'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/connection.rb:39:in `receive_data'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run_machine'
+	/usr/local/share/gems/gems/eventmachine-1.2.3/lib/eventmachine.rb:194:in `run'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/backends/base.rb:73:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/server.rb:162:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/controllers/controller.rb:87:in `start'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:200:in `run_command'
+	/usr/local/share/gems/gems/thin-1.6.4/lib/thin/runner.rb:156:in `run!'
+	/usr/local/share/gems/gems/thin-1.6.4/bin/thin:6:in `<top (required)>'
+	/usr/local/bin/thin:23:in `load'
+	/usr/local/bin/thin:23:in `<main>'
+10.0.156.71 - - [10/Jun/2017 02:56:26] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [10/Jun/2017 05:31:48] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.0.156.71 - - [10/Jun/2017 05:31:51] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0005
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_all_tests HTTP/1.1" 204 - 0.0010
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_datawipe_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_io_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_kddi_tests HTTP/1.1" 204 - 0.0003
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_level1_tests HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_level2_tests HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_level3_tests HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_regression_tests HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_reporting_tests HTTP/1.1" 204 - 0.0005
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_rtf_tests HTTP/1.1" 204 - 0.0004
+10.0.156.71 - - [10/Jun/2017 05:31:59] "POST /widgets/response_telephony_tests HTTP/1.1" 204 - 0.0005
+10.30.1.112 - - [10/Jun/2017 08:38:48] "GET /ops HTTP/1.1" 200 4421 0.0043
+10.30.1.112 - - [10/Jun/2017 08:38:53] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.112 - - [10/Jun/2017 08:38:53] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0007
+10.30.1.112 - - [10/Jun/2017 09:13:02] "GET /ops HTTP/1.1" 200 4455 0.0051
+10.30.1.112 - - [10/Jun/2017 09:13:02] "GET /events HTTP/1.1" 200 - 2048.1929
+10.30.1.112 - - [10/Jun/2017 09:13:02] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.112 - - [10/Jun/2017 09:13:02] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.112 - - [10/Jun/2017 09:13:41] "GET /ops HTTP/1.1" 200 4489 0.0046
+10.30.1.112 - - [10/Jun/2017 09:13:41] "GET /events HTTP/1.1" 200 - 38.4482
+10.30.1.112 - - [10/Jun/2017 09:13:41] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.112 - - [10/Jun/2017 09:13:41] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0010
+10.30.1.112 - - [10/Jun/2017 09:15:04] "GET /ops HTTP/1.1" 200 4498 0.0196
+10.30.1.112 - - [10/Jun/2017 09:15:04] "GET /events HTTP/1.1" 200 - 82.7927
+10.30.1.112 - - [10/Jun/2017 09:15:04] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.112 - - [10/Jun/2017 09:15:04] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.112 - - [10/Jun/2017 09:15:45] "GET /ops HTTP/1.1" 200 4498 0.0045
+10.30.1.112 - - [10/Jun/2017 09:15:45] "GET /events HTTP/1.1" 200 - 41.1477
+10.30.1.112 - - [10/Jun/2017 09:15:46] "GET /views/alert.html HTTP/1.1" 200 116 0.0011
+10.30.1.112 - - [10/Jun/2017 09:15:46] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0006
+10.30.1.112 - - [10/Jun/2017 09:16:19] "GET /ops HTTP/1.1" 200 4503 0.0176
+10.30.1.112 - - [10/Jun/2017 09:16:19] "GET /events HTTP/1.1" 200 - 33.9162
+10.30.1.112 - - [10/Jun/2017 09:16:20] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.112 - - [10/Jun/2017 09:16:20] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0013
+10.30.1.112 - - [10/Jun/2017 09:16:41] "GET /ops HTTP/1.1" 200 4517 0.0043
+10.30.1.112 - - [10/Jun/2017 09:16:41] "GET /events HTTP/1.1" 200 - 21.4826
+10.30.1.112 - - [10/Jun/2017 09:16:42] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.112 - - [10/Jun/2017 09:16:42] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.0.165.13 - - [10/Jun/2017 10:11:38] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0014
+10.0.165.13 - - [10/Jun/2017 10:11:53] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.0.165.13 - - [10/Jun/2017 10:12:12] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0006
+10.30.1.112 - - [10/Jun/2017 10:13:25] "GET /ops HTTP/1.1" 200 4517 0.0185
+10.30.1.112 - - [10/Jun/2017 10:13:25] "GET /events HTTP/1.1" 200 - 3403.2300
+10.30.1.112 - - [10/Jun/2017 10:13:25] "GET /views/alert.html HTTP/1.1" 200 116 0.0008
+10.30.1.112 - - [10/Jun/2017 10:13:25] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.112 - - [10/Jun/2017 10:14:17] "GET /ops HTTP/1.1" 200 4517 0.0060
+10.30.1.112 - - [10/Jun/2017 10:14:17] "GET /events HTTP/1.1" 200 - 51.8246
+10.30.1.112 - - [10/Jun/2017 10:14:17] "GET /views/alert.html HTTP/1.1" 200 116 0.0012
+10.30.1.112 - - [10/Jun/2017 10:14:17] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0008
+10.30.1.112 - - [10/Jun/2017 10:14:35] "GET /ops HTTP/1.1" 200 4517 0.0170
+10.30.1.112 - - [10/Jun/2017 10:14:35] "GET /events HTTP/1.1" 200 - 17.6580
+10.30.1.112 - - [10/Jun/2017 10:14:35] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.112 - - [10/Jun/2017 10:14:35] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0014
+10.30.1.112 - - [10/Jun/2017 10:14:52] "GET /ops HTTP/1.1" 200 4517 0.0071
+10.30.1.112 - - [10/Jun/2017 10:14:52] "GET /events HTTP/1.1" 200 - 16.7672
+10.30.1.112 - - [10/Jun/2017 10:14:52] "GET /views/alert.html HTTP/1.1" 200 116 0.0010
+10.30.1.112 - - [10/Jun/2017 10:14:53] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0019
+10.30.1.112 - - [10/Jun/2017 10:16:15] "GET /ops HTTP/1.1" 200 4517 0.0043
+10.30.1.112 - - [10/Jun/2017 10:16:15] "GET /events HTTP/1.1" 200 - 82.4805
+10.30.1.112 - - [10/Jun/2017 10:16:15] "GET /views/alert.html HTTP/1.1" 200 116 0.0013
+10.30.1.112 - - [10/Jun/2017 10:16:15] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.112 - - [10/Jun/2017 10:16:44] "GET /ops HTTP/1.1" 200 4534 0.0040
+10.30.1.112 - - [10/Jun/2017 10:16:44] "GET /events HTTP/1.1" 200 - 29.0023
+10.30.1.112 - - [10/Jun/2017 10:16:44] "GET /views/alert.html HTTP/1.1" 200 116 0.0009
+10.30.1.112 - - [10/Jun/2017 10:16:44] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0009
+10.30.1.112 - - [10/Jun/2017 10:17:41] "GET /ops HTTP/1.1" 200 4517 0.0044
+10.30.1.112 - - [10/Jun/2017 10:17:41] "GET /events HTTP/1.1" 200 - 57.1954
+10.30.1.112 - - [10/Jun/2017 10:17:42] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.112 - - [10/Jun/2017 10:17:42] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0011
+10.30.1.112 - - [10/Jun/2017 10:18:07] "GET /ops HTTP/1.1" 200 4517 0.0042
+10.30.1.112 - - [10/Jun/2017 10:18:07] "GET /events HTTP/1.1" 200 - 24.9729
+10.30.1.112 - - [10/Jun/2017 10:18:07] "GET /views/alert.html HTTP/1.1" 200 116 0.0014
+10.30.1.112 - - [10/Jun/2017 10:18:07] "GET /views/hot_progress_bars.html HTTP/1.1" 200 37 0.0012
+10.0.156.71 - - [10/Jun/2017 10:22:36] "POST /widgets/response_intellego_src_branch HTTP/1.1" 204 - 0.0013
+10.0.156.71 - - [10/Jun/2017 10:22:37] "POST /widgets/response_rest_api_src_branch HTTP/1.1" 204 - 0.0006
+10.0.156.71 - - [10/Jun/2017 10:22:50] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0007
+10.0.156.71 - - [10/Jun/2017 10:22:52] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0005
+10.0.156.71 - - [10/Jun/2017 10:29:58] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0008
+10.0.156.71 - - [10/Jun/2017 10:30:00] "POST /widgets/progress_bars HTTP/1.1" 204 - 0.0006
+10.0.156.71 - - [10/Jun/2017 10:30:05] "POST /widgets/response_level2_tests HTTP/1.1" 204 - 0.0005
+10.30.1.112 - - [10/Jun/2017 10:49:21] "GET /events HTTP/1.1" 200 - 1874.3333
